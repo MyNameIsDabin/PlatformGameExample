@@ -12,5 +12,6 @@ addChild(player);
 <pre><code>player->jump(10.0f);</code></pre>
 <pre><code>player->moveToDirection(Direction::LEFT);</code></pre>
 
+
 플레이어가 충돌체로 감지하게 할 노드를 PlatformerContainer 에 따로 추가한다.
 <pre><code>PlatformerContainer::getInstance()->pushSolidNode(node);</code></pre>
