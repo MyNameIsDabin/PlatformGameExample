@@ -2,6 +2,8 @@
 
 Cocos2d-x 에서 구현한 플랫폼 게임 예제.
 
+![sample](https://github.com/MyNameIsDabin/PlatformGameExample/blob/master/sample.gif?raw=true)
+
 <pre><code>player = Player::create();
 player->setAnchorPoint(Vec2::ANCHOR_MIDDLE);
 player->setMoveSpeed(6.0f);
