@@ -1,6 +1,6 @@
 # PlatformGameExample
 
-Cocos2d-x 에서 사용 가능한 플랫폼 게임 예제.
+Cocos2d-x 에서 구현한 플랫폼 게임 예제.
 
 <pre><code>player = Player::create();
 player->setAnchorPoint(Vec2::ANCHOR_MIDDLE);
